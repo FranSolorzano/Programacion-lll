@@ -1,0 +1,7 @@
+C:\Users\HP-Notebook\Documents\GitHub\Programacion-lll\PracticaDePrimerSemana\PracticaDePrimerSemana\bin\Debug\PracticaDePrimerSemana.exe.config
+C:\Users\HP-Notebook\Documents\GitHub\Programacion-lll\PracticaDePrimerSemana\PracticaDePrimerSemana\bin\Debug\PracticaDePrimerSemana.exe
+C:\Users\HP-Notebook\Documents\GitHub\Programacion-lll\PracticaDePrimerSemana\PracticaDePrimerSemana\bin\Debug\PracticaDePrimerSemana.pdb
+C:\Users\HP-Notebook\Documents\GitHub\Programacion-lll\PracticaDePrimerSemana\PracticaDePrimerSemana\obj\Debug\PracticaDePrimerSemana.csproj.AssemblyReference.cache
+C:\Users\HP-Notebook\Documents\GitHub\Programacion-lll\PracticaDePrimerSemana\PracticaDePrimerSemana\obj\Debug\PracticaDePrimerSemana.csproj.CoreCompileInputs.cache
+C:\Users\HP-Notebook\Documents\GitHub\Programacion-lll\PracticaDePrimerSemana\PracticaDePrimerSemana\obj\Debug\PracticaDePrimerSemana.exe
+C:\Users\HP-Notebook\Documents\GitHub\Programacion-lll\PracticaDePrimerSemana\PracticaDePrimerSemana\obj\Debug\PracticaDePrimerSemana.pdb
