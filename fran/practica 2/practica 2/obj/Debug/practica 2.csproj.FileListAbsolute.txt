@@ -6,3 +6,10 @@ C:\Users\INGLES\Desktop\fran\practica 2\practica 2\obj\Debug\practica 2.csproj.S
 C:\Users\INGLES\Desktop\fran\practica 2\practica 2\obj\Debug\practica 2.csproj.CoreCompileInputs.cache
 C:\Users\INGLES\Desktop\fran\practica 2\practica 2\obj\Debug\practica 2.exe
 C:\Users\INGLES\Desktop\fran\practica 2\practica 2\obj\Debug\practica 2.pdb
+C:\Users\HP-Notebook\Documents\GitHub\Programacion-lll\fran\practica 2\practica 2\bin\Debug\practica 2.exe.config
+C:\Users\HP-Notebook\Documents\GitHub\Programacion-lll\fran\practica 2\practica 2\bin\Debug\practica 2.exe
+C:\Users\HP-Notebook\Documents\GitHub\Programacion-lll\fran\practica 2\practica 2\bin\Debug\practica 2.pdb
+C:\Users\HP-Notebook\Documents\GitHub\Programacion-lll\fran\practica 2\practica 2\obj\Debug\practica 2.csproj.AssemblyReference.cache
+C:\Users\HP-Notebook\Documents\GitHub\Programacion-lll\fran\practica 2\practica 2\obj\Debug\practica 2.csproj.CoreCompileInputs.cache
+C:\Users\HP-Notebook\Documents\GitHub\Programacion-lll\fran\practica 2\practica 2\obj\Debug\practica 2.exe
+C:\Users\HP-Notebook\Documents\GitHub\Programacion-lll\fran\practica 2\practica 2\obj\Debug\practica 2.pdb

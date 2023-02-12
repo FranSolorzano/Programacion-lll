@@ -6,3 +6,10 @@ C:\Users\INGLES\Desktop\fran\inmuebles\inmuebles\obj\Debug\inmuebles.csproj.Sugg
 C:\Users\INGLES\Desktop\fran\inmuebles\inmuebles\obj\Debug\inmuebles.csproj.CoreCompileInputs.cache
 C:\Users\INGLES\Desktop\fran\inmuebles\inmuebles\obj\Debug\inmuebles.exe
 C:\Users\INGLES\Desktop\fran\inmuebles\inmuebles\obj\Debug\inmuebles.pdb
+C:\Users\HP-Notebook\Documents\GitHub\Programacion-lll\fran\inmuebles\inmuebles\bin\Debug\inmuebles.exe.config
+C:\Users\HP-Notebook\Documents\GitHub\Programacion-lll\fran\inmuebles\inmuebles\bin\Debug\inmuebles.exe
+C:\Users\HP-Notebook\Documents\GitHub\Programacion-lll\fran\inmuebles\inmuebles\bin\Debug\inmuebles.pdb
+C:\Users\HP-Notebook\Documents\GitHub\Programacion-lll\fran\inmuebles\inmuebles\obj\Debug\inmuebles.csproj.AssemblyReference.cache
+C:\Users\HP-Notebook\Documents\GitHub\Programacion-lll\fran\inmuebles\inmuebles\obj\Debug\inmuebles.csproj.CoreCompileInputs.cache
+C:\Users\HP-Notebook\Documents\GitHub\Programacion-lll\fran\inmuebles\inmuebles\obj\Debug\inmuebles.exe
+C:\Users\HP-Notebook\Documents\GitHub\Programacion-lll\fran\inmuebles\inmuebles\obj\Debug\inmuebles.pdb
