@@ -76,7 +76,7 @@ namespace inmuebles
         {
             V = v;
         }
-
+        public string cantidad { get; set; }
         public string dias { get; set; }
         public string imprimirdatos { get; set; }
         public string V { get; }
@@ -87,6 +87,8 @@ namespace inmuebles
         }
 
     }
+
+    
     class program1
     {
         static void Main(string[] args)
@@ -106,8 +108,9 @@ namespace inmuebles
             Empleados empleado1 = new Empleados();
             Empleados empleado2 = new Empleados();
 
+            
             Contrato cantidad = new Contrato();
-
+            
             int cantidad1;
 
             double saldo;
@@ -122,12 +125,9 @@ namespace inmuebles
 
 
             Console.WriteLine("********************************MENU DE INMUEBLES***********************************");
-            Console.WriteLine("¿Que tipo de inmueble deseas adquirir?" + persona);
+            Console.WriteLine("¿Que tipo de inmueble deseas adquirir?");
             Console.WriteLine("1-- CASA DE PLAYA");
-            Console.WriteLine("2-- CASA DE ZONA URBANA");
-            /*Console.WriteLine("3-- DEPARTAMENTO");
-            Console.WriteLine("4-- PARCELAS");
-            Console.WriteLine("5-- EDIFICIO");*/
+            Console.WriteLine("2-- CASA DE ZONA URBANA");           
             opcion = int.Parse(Console.ReadLine());
 
             Console.Clear();
@@ -151,18 +151,25 @@ namespace inmuebles
                             Console.WriteLine("Estas siendo atendido por JOSE");
                             Console.WriteLine("----------CASA DE PLAYA----------");
                             Console.WriteLine("Por favor " + persona.nombre + " " + persona.apellido + " ingrese la cantidad de dias que desea adquirir el inmueble: ");
-                            cantidad.dias = Console.ReadLine();
-                            Console.WriteLine(cantidad.dias);
-                            cantidad1 = int.Parse(Console.ReadLine());
+                            cantidad.dias = Console.ReadLine(); //aca esta el problema por eso no almacena valorees
                             int costo1 = 300;
                             costo1 = int.Parse(Console.ReadLine());
+                            cantidad1 = int.Parse(Console.ReadLine());
                             saldo = costo1 * cantidad1;
-                            
+                            Console.WriteLine(saldo);
+                            cantidad1 = int.Parse(Console.ReadLine());                                             
                             Console.WriteLine("El saldo que tendra que pagar por los dias requeridos es de: " + saldo);
                             Console.Clear();
+                            Console.WriteLine("------SU CONTRATO CONTIENE LOS DATOS DE ACUERDOS SIGUIENTES------");
+                            Console.WriteLine(persona.nombre + " " + persona.apellido);                           
+                            Console.WriteLine(persona.edad);
+                            Console.WriteLine(persona.direccion);
+                            Console.WriteLine("Usted fue atendido por JOSE");
+                            Console.WriteLine("\nEsta casa se encuentra en estado disponible: ");
+                            Console.WriteLine("CASA DE PLAYA " + "con un saldo de: " + saldo + "por su adquisicion de: " + cantidad + "dias");
 
 
-
+                            
                             opcioncasadeplaya = int.Parse(Console.ReadLine());
                             switch (opcioncasadeplaya)
                             {
