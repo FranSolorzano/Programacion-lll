@@ -6,11 +6,9 @@ using System.Threading.Tasks;
 
 namespace inmuebles
 {
-
-    //INTEGRANTES DEL EQUIPO: FRANKLIN NOE SOLORZANO ERAZO & LUIS ELIAN ARTEAGA DIAS
+    //INTEGRANTES DEL EQUIPO: FRANKLIN NOE SOLORZANO ERAZO & LUIS ELIAN ARTEAGA DIAZ
     internal class Program
     {
-
         public abstract class Inmueble
         {
             protected double precioVenta;
@@ -19,7 +17,6 @@ namespace inmuebles
             protected string nombre;
             protected string apellido;
             protected string Contrato;
-
 
         }
 
@@ -31,14 +28,9 @@ namespace inmuebles
             }
         }
 
-
-
     }
-
-
     class Persona
     {
-
         public string id { get; set; }
         public string dui { get; set; }
         public string nombre { get; set; }
@@ -46,26 +38,20 @@ namespace inmuebles
         public string edad { get; set; }
         public string direccion { get; set; }
         public string telefono { get; set; }
-
-
     }
 
     class Cliente : Persona
     {
 
-
     }
-
     class Empleados : Persona
     {
 
     }
-
     class Inmuebles : Contrato
     {
 
     }
-
     class Contrato
     {
         public Contrato()
@@ -86,10 +72,7 @@ namespace inmuebles
         {
             throw new NotImplementedException();
         }
-
     }
-
-
     class program1
     {
         static void Main(string[] args)
@@ -100,6 +83,8 @@ namespace inmuebles
             persona.nombre = Console.ReadLine();
             Console.WriteLine("Por favor ingrese su apellido: ");
             persona.apellido = Console.ReadLine();
+            Console.WriteLine("Por favor ingrese su numero de DUI: ");
+            persona.dui = Console.ReadLine();
             Console.WriteLine("Por favor ingrese su edad: ");
             persona.edad = Console.ReadLine();
             Console.WriteLine("Por favor ingrese su direccion: ");
@@ -118,11 +103,6 @@ namespace inmuebles
 
             double saldo;
 
-
-
-
-
-
             Console.WriteLine("\nBIENVENIDO SEA A NUESTRA VENTA DE INMUEBLES " + " " + persona.nombre + " " + persona.apellido);
             int opcion;
 
@@ -132,13 +112,10 @@ namespace inmuebles
             Console.WriteLine("1-- CASA DE PLAYA");
             Console.WriteLine("2-- CASA DE ZONA URBANA");
             opcion = int.Parse(Console.ReadLine());
-
             Console.Clear();
-
 
             switch (opcion)
             {
-
                 case 1:
                     int opc;
                     Console.WriteLine("\n¿Por cual empleado le gustaria ser atendido?");
@@ -159,14 +136,16 @@ namespace inmuebles
                             int costo1 = 300;                            
                             Console.WriteLine("El costo que tendra que pagar por los dias requeridos es de: " + costo1 * int.Parse(cantidad.dias));
                             Console.Clear();
-                            Console.WriteLine("--------------SU CONTRATO CONTIENE LOS DATOS DE ACUERDOS SIGUIENTES--------------");
-                            Console.WriteLine("El vendedor JOSE CASTILLO da en arrendamiento a: " + persona.nombre + " " + persona.apellido);                           
-                            Console.WriteLine("Que cuenta con: " + persona.edad + " años de edad");
-                            Console.WriteLine("Y reside en: " + persona.direccion);                          
-                            Console.WriteLine("Con el numero telefonico: " + persona.telefono);                          
-                            Console.WriteLine("El inmueble CASA DE PLAYA " + "con un costo de: " + costo1 * int.Parse(cantidad.dias) + ", por su adquisicion de: " + cantidad.dias + " dias ubicada a un costado de LA PLAYA EL SOL");                                                     
+                            Console.WriteLine("**************SU CONTRATO CONTIENE LOS DATOS DE ACUERDOS SIGUIENTES**************");
+                            Console.WriteLine("___DATOS PERSONALES___");
+                            Console.WriteLine("---El vendedor JOSE CASTILLO da en arrendamiento a: " + persona.nombre + " " + persona.apellido);
+                            Console.WriteLine("---Que cuenta con el numero de identificacion personal: " + persona.dui); 
+                            Console.WriteLine("---Con "+ persona.edad + " años de edad");
+                            Console.WriteLine("---Quien reside en: " + persona.direccion);                          
+                            Console.WriteLine("---De numero telefonico: " + persona.telefono);
+                            Console.WriteLine("___DATOS DEL INMUEBLE___");
+                            Console.WriteLine("---El inmueble: CASA DE PLAYA " + "con un costo de: " + costo1 * int.Parse(cantidad.dias) + " dolares, por su adquisicion de: " + cantidad.dias + " dias, ubicada a un costado de LA PLAYA EL SOL");                                                     
                             
-
                             opcioncasadeplaya = int.Parse(Console.ReadLine());
                             switch (opcioncasadeplaya)
                             {
@@ -180,8 +159,6 @@ namespace inmuebles
                                 case 2:
                                     Environment.Exit(0);
                                     break;
-
-
                             }
                             break;
                         case 2:
@@ -194,12 +171,15 @@ namespace inmuebles
                             int costo2 = 300;
                             Console.WriteLine("El costo que tendra que pagar por los dias requeridos es de: " + costo2 * int.Parse(cantidad.dias));
                             Console.Clear();
-                            Console.WriteLine("--------------SU CONTRATO CONTIENE LOS DATOS DE ACUERDOS SIGUIENTES--------------");
-                            Console.WriteLine("El vendedor CARLOS PEREZ da en arrendamiento a: " + persona.nombre + " " + persona.apellido);
-                            Console.WriteLine("Que cuenta con: " + persona.edad + " años de edad");
-                            Console.WriteLine("Y reside en: " + persona.direccion);
-                            Console.WriteLine("Con el numero telefonico: " + persona.telefono);
-                            Console.WriteLine("El inmueble CASA DE PLAYA " + "con un costo de: " + costo2 * int.Parse(cantidad.dias) + ", por su adquisicion de: " + cantidad.dias + " dias ubicada en Colonia Colorado");
+                            Console.WriteLine("**************SU CONTRATO CONTIENE LOS DATOS DE ACUERDOS SIGUIENTES**************");
+                            Console.WriteLine("___DATOS PERSONALES___");
+                            Console.WriteLine("---El vendedor CARLOS PEREZ da en arrendamiento a: " + persona.nombre + " " + persona.apellido);
+                            Console.WriteLine("---Que cuenta con el numero de identificacion personal: " + persona.dui);
+                            Console.WriteLine("---Con " + persona.edad + " años de edad");
+                            Console.WriteLine("---Quien reside en: " + persona.direccion);
+                            Console.WriteLine("---De numero telefonico: " + persona.telefono);
+                            Console.WriteLine("___DATOS DEL INMUEBLE___");
+                            Console.WriteLine("---El inmueble: CASA DE PLAYA " + "con un costo de: " + costo2 * int.Parse(cantidad.dias) + " dolares, por su adquisicion de: " + cantidad.dias + " dias, ubicada a un costado de LA PLAYA EL SOL ");
 
                             opcioncasadeplaya1 = int.Parse(Console.ReadLine());
                             switch (opcioncasadeplaya1)
@@ -214,12 +194,8 @@ namespace inmuebles
                                 case 2:
                                     Environment.Exit(0);
                                     break;
-
-
                             }
                             break;
-
-
                     }
                     break;
                 case 2:
@@ -239,15 +215,18 @@ namespace inmuebles
                             Console.WriteLine("Por favor " + persona.nombre + " " + persona.apellido + " ingrese la cantidad de dias que desea adquirir el inmueble: ");
                             cantidad.dias = Console.ReadLine();
                             Console.WriteLine("Tus dias son: " + cantidad.dias);
-                            int costo2 = 300;
+                            int costo2 = 250;
                             Console.WriteLine("El costo que tendra que pagar por los dias requeridos es de: " + costo2 * int.Parse(cantidad.dias));
                             Console.Clear();
-                            Console.WriteLine("--------------SU CONTRATO CONTIENE LOS DATOS DE ACUERDOS SIGUIENTES--------------");
-                            Console.WriteLine("El vendedor JOSE CASTILLO da en arrendamiento a: " + persona.nombre + " " + persona.apellido);
-                            Console.WriteLine("Que cuenta con: " + persona.edad + " años de edad");
-                            Console.WriteLine("Y reside en: " + persona.direccion);
-                            Console.WriteLine("Con el numero telefonico: " + persona.telefono);
-                            Console.WriteLine("El inmueble CASA URBANA " + "con un costo de: " + costo2 * int.Parse(cantidad.dias) + ", por su adquisicion de: " + cantidad.dias + " dias ubicada a un costado de LA PLAYA EL SOL");
+                            Console.WriteLine("**************SU CONTRATO CONTIENE LOS DATOS DE ACUERDOS SIGUIENTES**************");
+                            Console.WriteLine("___DATOS PERSONALES___");
+                            Console.WriteLine("---El vendedor JOSE CASTILLO da en arrendamiento a: " + persona.nombre + " " + persona.apellido);
+                            Console.WriteLine("---Que cuenta con el numero de identificacion personal: " + persona.dui);
+                            Console.WriteLine("---Con " + persona.edad + " años de edad");
+                            Console.WriteLine("---Quien reside en: " + persona.direccion);
+                            Console.WriteLine("---De numero telefonico: " + persona.telefono);
+                            Console.WriteLine("___DATOS DEL INMUEBLE___");
+                            Console.WriteLine("---El inmueble: CASA URBANA " + "con un costo de: " + costo2 * int.Parse(cantidad.dias) + " dolares, por su adquisicion de: " + cantidad.dias + " dias, ubicada en Colonia Colorado");
 
                             opcioncasaurbana = int.Parse(Console.ReadLine());
                             switch (opcioncasaurbana)
@@ -273,15 +252,18 @@ namespace inmuebles
                             Console.WriteLine("Por favor " + persona.nombre + " " + persona.apellido + " ingrese la cantidad de dias que desea adquirir el inmueble: ");
                             cantidad.dias = Console.ReadLine();
                             Console.WriteLine("Tus dias son: " + cantidad.dias);
-                            int costo3 = 300;
+                            int costo3 = 250;
                             Console.WriteLine("El costo que tendra que pagar por los dias requeridos es de: " + costo3 * int.Parse(cantidad.dias));
                             Console.Clear();
-                            Console.WriteLine("--------------SU CONTRATO CONTIENE LOS DATOS DE ACUERDOS SIGUIENTES--------------");
-                            Console.WriteLine("El vendedor CARLOS PEREZ da en arrendamiento a: " + persona.nombre + " " + persona.apellido);
-                            Console.WriteLine("Que cuenta con: " + persona.edad + " años de edad");
-                            Console.WriteLine("Y reside en: " + persona.direccion);
-                            Console.WriteLine("Con el numero telefonico: " + persona.telefono);
-                            Console.WriteLine("El inmueble CASA URBANA " + "con un costo de: " + costo3 * int.Parse(cantidad.dias) + ", por su adquisicion de: " + cantidad.dias + " dias ubicada en Colonia Colorado");
+                            Console.WriteLine("**************SU CONTRATO CONTIENE LOS DATOS DE ACUERDOS SIGUIENTES**************");
+                            Console.WriteLine("___DATOS PERSONALES___");
+                            Console.WriteLine("---El vendedor CARLOS PEREZ da en arrendamiento a: " + persona.nombre + " " + persona.apellido);
+                            Console.WriteLine("---Que cuenta con el numero de identificacion personal: " + persona.dui);
+                            Console.WriteLine("---Con " + persona.edad + " años de edad");
+                            Console.WriteLine("---Quien reside en: " + persona.direccion);
+                            Console.WriteLine("---De numero telefonico: " + persona.telefono);
+                            Console.WriteLine("___DATOS DEL INMUEBLE___");
+                            Console.WriteLine("---El inmueble: CASA URBANA " + "con un costo de: " + costo3 * int.Parse(cantidad.dias) + " dolares, por su adquisicion de: " + cantidad.dias + " dias, ubicada en Colonia Colorado");
 
                             opcioncasaurbana1 = int.Parse(Console.ReadLine());
                             switch (opcioncasaurbana1)
@@ -297,22 +279,12 @@ namespace inmuebles
                                 case 2:
                                     Environment.Exit(0);
                                     break;
-
-
                             }
                             break;
-
-
                     }
                     break;
             }
 
-
         }
     }
-
-
-
-
-
 }
