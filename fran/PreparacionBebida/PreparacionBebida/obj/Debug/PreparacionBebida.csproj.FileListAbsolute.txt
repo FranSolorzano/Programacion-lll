@@ -13,3 +13,10 @@ C:\Users\HP-Notebook\Downloads\franklincito shulo y precioso\franklincito shulo 
 C:\Users\HP-Notebook\Downloads\franklincito shulo y precioso\franklincito shulo y precioso\FsCarpetaVisual2022\PreparacionBebida\PreparacionBebida\obj\Debug\PreparacionBebida.csproj.CoreCompileInputs.cache
 C:\Users\HP-Notebook\Downloads\franklincito shulo y precioso\franklincito shulo y precioso\FsCarpetaVisual2022\PreparacionBebida\PreparacionBebida\obj\Debug\PreparacionBebida.exe
 C:\Users\HP-Notebook\Downloads\franklincito shulo y precioso\franklincito shulo y precioso\FsCarpetaVisual2022\PreparacionBebida\PreparacionBebida\obj\Debug\PreparacionBebida.pdb
+C:\Users\HP-Notebook\Documents\GitHub\Programacion-lll\fran\PreparacionBebida\PreparacionBebida\bin\Debug\PreparacionBebida.exe.config
+C:\Users\HP-Notebook\Documents\GitHub\Programacion-lll\fran\PreparacionBebida\PreparacionBebida\bin\Debug\PreparacionBebida.exe
+C:\Users\HP-Notebook\Documents\GitHub\Programacion-lll\fran\PreparacionBebida\PreparacionBebida\bin\Debug\PreparacionBebida.pdb
+C:\Users\HP-Notebook\Documents\GitHub\Programacion-lll\fran\PreparacionBebida\PreparacionBebida\obj\Debug\PreparacionBebida.csproj.AssemblyReference.cache
+C:\Users\HP-Notebook\Documents\GitHub\Programacion-lll\fran\PreparacionBebida\PreparacionBebida\obj\Debug\PreparacionBebida.csproj.CoreCompileInputs.cache
+C:\Users\HP-Notebook\Documents\GitHub\Programacion-lll\fran\PreparacionBebida\PreparacionBebida\obj\Debug\PreparacionBebida.exe
+C:\Users\HP-Notebook\Documents\GitHub\Programacion-lll\fran\PreparacionBebida\PreparacionBebida\obj\Debug\PreparacionBebida.pdb
