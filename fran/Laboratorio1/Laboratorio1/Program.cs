@@ -40,8 +40,8 @@ public class User : Departamento
 
         do
         {
-            WriteLine("\nPor favor selecciona una opción");
-            WriteLine("\n1.Ingresar Datos");
+            WriteLine("\nPor favor seleccione lo que desea realizar");
+            WriteLine("\n1.Registrarse");
             WriteLine("\n2.Salir");
             opc = int.Parse(ReadLine());
 
@@ -104,8 +104,8 @@ public class User : Departamento
                             }
                             if(opc4 == 2)
                             {
-                                WriteLine("Tus datos son: " + nombre + " " + edad + " " + departamento + " " + municipio);
-                                ReadKey();
+                                WriteLine("Tus datos son: " + nombre + " de edad: " + edad + ", del departamento de: " + departamento + " y del municipio de: " + municipio);
+                                ReadKey();                              
                             }
                             
                         }
@@ -124,7 +124,7 @@ public class User : Departamento
                             }
                             if(opc4 ==2)
                             {
-                                WriteLine("Tus datos son: " + nombre + " " + edad + " " + departamento + " " + municipio);
+                                WriteLine("Tus datos son: " + nombre + " de edad: " + edad + ", del departamento de: " + departamento + " y del municipio de: " + municipio);
                                 ReadKey();
                             }
                         }
@@ -143,7 +143,7 @@ public class User : Departamento
                             }
                             if(opc4 == 2)
                             {
-                                WriteLine("Tus datos son: " + nombre + " " + edad + " " + departamento + " " + municipio);
+                                WriteLine("Tus datos son: " + nombre + " de edad: " + edad + ", del departamento de: " + departamento + " y del municipio de: " + municipio);
                                 ReadKey();
                             }
                         }
@@ -162,7 +162,7 @@ public class User : Departamento
                             }
                             if(opc4 == 2)
                             {
-                                WriteLine("Tus datos son: " + nombre + " " + edad + " " + departamento + " " + municipio);
+                                WriteLine("Tus datos son: " + nombre + " de edad: " + edad + ", del departamento de: " + departamento + " y del municipio de: " + municipio);
                                 ReadKey();
                             }
                         }
@@ -181,7 +181,7 @@ public class User : Departamento
                             }
                             if(opc4 == 2)
                             {
-                                WriteLine("Tus datos son: " + nombre + " " + edad + " " + departamento + " " + municipio);
+                                WriteLine("Tus datos son: " + nombre + " de edad: " + edad + ", del departamento de: " + departamento + " y del municipio de: " + municipio);
                                 ReadKey();
                             }
                         }
@@ -214,7 +214,7 @@ public class User : Departamento
                             }
                             if(opc4 == 2)
                             {
-                                WriteLine("Tus datos son: " + nombre + " " + edad + " " + departamento + " " + municipio);
+                                WriteLine("Tus datos son: " + nombre + " de edad: " + edad + ", del departamento de: " + departamento + " y del municipio de: " + municipio);
                                 ReadKey();
                             }
                         }
@@ -233,7 +233,7 @@ public class User : Departamento
                             }
                             if(opc4 == 2)
                             {
-                                WriteLine("Tus datos son: " + nombre + " " + edad + " " + departamento + " " + municipio);
+                                WriteLine("Tus datos son: " + nombre + " de edad: " + edad + ", del departamento de: " + departamento + " y del municipio de: " + municipio);
                                 ReadKey();
                             }
                         }
@@ -252,7 +252,7 @@ public class User : Departamento
                             }
                             if(opc4 == 2)
                             {
-                                WriteLine("Tus datos son: " + nombre + " " + edad + " " + departamento + " " + municipio);
+                                WriteLine("Tus datos son: " + nombre + " de edad: " + edad + ", del departamento de: " + departamento + " y del municipio de: " + municipio);
                                 ReadKey();
                             }
                         }
@@ -271,7 +271,7 @@ public class User : Departamento
                             }
                             if(opc4 == 2)
                             {
-                                WriteLine("Tus datos son: " + nombre +" " + edad + " " + departamento + " " + municipio);
+                                WriteLine("Tus datos son: " + nombre + " de edad: " + edad + ", del departamento de: " + departamento + " y del municipio de: " + municipio);
                                 ReadKey();
                             }
                         }
@@ -290,7 +290,7 @@ public class User : Departamento
                             }
                             if(opc4 == 2)
                             {
-                                WriteLine("Tus datos son: " + nombre + " " + edad + " " + departamento + " " + municipio);
+                                WriteLine("Tus datos son: " + nombre + " de edad: " + edad + ", del departamento de: " + departamento + " y del municipio de: " + municipio);
                                 ReadKey();
                             }
                         }
@@ -324,7 +324,7 @@ public class User : Departamento
                             }
                             if (opc4 == 2)
                             {
-                                WriteLine("Tus datos son: " + nombre + " " + edad + " " + departamento + " " + municipio);
+                                WriteLine("Tus datos son: " + nombre + " de edad: " + edad + ", del departamento de: " + departamento + " y del municipio de: " + municipio);
                                 ReadKey();
                             }
                         }
@@ -343,7 +343,7 @@ public class User : Departamento
                             }
                             if (opc4 == 2)
                             {
-                                WriteLine("Tus datos son: " + nombre + " " + edad + " " + departamento + " " + municipio);
+                                WriteLine("Tus datos son: " + nombre + " de edad: " + edad + ", del departamento de: " + departamento + " y del municipio de: " + municipio);
                                 ReadKey();
                             }
                         }
@@ -362,7 +362,7 @@ public class User : Departamento
                             }
                             if (opc4 == 2)
                             {
-                                WriteLine("Tus datos son: " + nombre + " " + edad + " " + departamento + " " + municipio);
+                                WriteLine("Tus datos son: " + nombre + " de edad: " + edad + ", del departamento de: " + departamento + " y del municipio de: " + municipio);
                                 ReadKey();
                             }
                         }
@@ -381,7 +381,7 @@ public class User : Departamento
                             }
                             if (opc4 == 2)
                             {
-                                WriteLine("Tus datos son: " + nombre + " " + edad + " " + departamento + " " + municipio);
+                                WriteLine("Tus datos son: " + nombre + " de edad: " + edad + ", del departamento de: " + departamento + " y del municipio de: " + municipio);
                                 ReadKey();
                             }
                         }
@@ -400,7 +400,7 @@ public class User : Departamento
                             }
                             if (opc4 == 2)
                             {
-                                WriteLine("Tus datos son: " + nombre + " " + edad + " " + departamento + " " + municipio);
+                                WriteLine("Tus datos son: " + nombre + " de edad: " + edad + ", del departamento de: " + departamento + " y del municipio de: " + municipio);
                                 ReadKey();
                             }
                         }
@@ -433,7 +433,7 @@ public class User : Departamento
                             }
                             if (opc4 == 2)
                             {
-                                WriteLine("Tus datos son: " + nombre + " " + edad + " " + departamento + " " + municipio);
+                                WriteLine("Tus datos son: " + nombre + " de edad: " + edad + ", del departamento de: " + departamento + " y del municipio de: " + municipio);
                                 ReadKey();
                             }
                         }
@@ -452,7 +452,7 @@ public class User : Departamento
                             }
                             if (opc4 == 2)
                             {
-                                WriteLine("Tus datos son: " + nombre + " " + edad + " " + departamento + " " + municipio);
+                                WriteLine("Tus datos son: " + nombre + " de edad: " + edad + ", del departamento de: " + departamento + " y del municipio de: " + municipio);
                                 ReadKey();
                             }
                         }
@@ -471,7 +471,7 @@ public class User : Departamento
                             }
                             if (opc4 == 2)
                             {
-                                WriteLine("Tus datos son: " + nombre + " " + edad + " " + departamento + " " + municipio);
+                                WriteLine("Tus datos son: " + nombre + " de edad: " + edad + ", del departamento de: " + departamento + " y del municipio de: " + municipio);
                                 ReadKey();
                             }
                         }
@@ -490,7 +490,7 @@ public class User : Departamento
                             }
                             if (opc4 == 2)
                             {
-                                WriteLine("Tus datos son: " + nombre + " " + edad + " " + departamento + " " + municipio);
+                                WriteLine("Tus datos son: " + nombre + " de edad: " + edad + ", del departamento de: " + departamento + " y del municipio de: " + municipio);
                                 ReadKey();
                             }
                         }
@@ -509,7 +509,7 @@ public class User : Departamento
                             }
                             if (opc4 == 2)
                             {
-                                WriteLine("Tus datos son: " + nombre + " " + edad + " " + departamento + " " + municipio);
+                                WriteLine("Tus datos son: " + nombre + " de edad: " + edad + ", del departamento de: " + departamento + " y del municipio de: " + municipio);
                                 ReadKey();
                             }
                         }
@@ -543,7 +543,7 @@ public class User : Departamento
                             }
                             if (opc4 == 2)
                             {
-                                WriteLine("Tus datos son: " + nombre + " " + edad + " " + departamento + " " + municipio);
+                                WriteLine("Tus datos son: " + nombre + " de edad: " + edad + ", del departamento de: " + departamento + " y del municipio de: " + municipio);
                                 ReadKey();
                             }
                         }
@@ -562,7 +562,7 @@ public class User : Departamento
                             }
                             if (opc4 == 2)
                             {
-                                WriteLine("Tus datos son: " + nombre + " " + edad + " " + departamento + " " + municipio);
+                                WriteLine("Tus datos son: " + nombre + " de edad: " + edad + ", del departamento de: " + departamento + " y del municipio de: " + municipio);
                                 ReadKey();
                             }
                         }
@@ -581,7 +581,7 @@ public class User : Departamento
                             }
                             if (opc4 == 2)
                             {
-                                WriteLine("Tus datos son: " + nombre + " " + edad + " " + departamento + " " + municipio);
+                                WriteLine("Tus datos son: " + nombre + " de edad: " + edad + ", del departamento de: " + departamento + " y del municipio de: " + municipio);
                                 ReadKey();
                             }
                         }
@@ -600,7 +600,7 @@ public class User : Departamento
                             }
                             if (opc4 == 2)
                             {
-                                WriteLine("Tus datos son: " + nombre + " " + edad + " " + departamento + " " + municipio);
+                                WriteLine("Tus datos son: " + nombre + " de edad: " + edad + ", del departamento de: " + departamento + " y del municipio de: " + municipio);
                                 ReadKey();
                             }
                         }
@@ -619,7 +619,7 @@ public class User : Departamento
                             }
                             if (opc4 == 2)
                             {
-                                WriteLine("Tus datos son: " + nombre + " " + edad + " " + departamento + " " + municipio);
+                                WriteLine("Tus datos son: " + nombre + " de edad: " + edad + ", del departamento de: " + departamento + " y del municipio de: " + municipio);
                                 ReadKey();
                             }
                         }
