@@ -58,7 +58,8 @@ namespace PrendasdeVestir
             WriteLine("\n");
             WriteLine("Por favor seleccione el tipo de vestimenta que le gustaria visualizar");
             WriteLine("1--HOMBRE");
-            WriteLine("\t2--MUJER");            
+            WriteLine("2--MUJER");            
+            ReadKey();            
             int opc;
 
             
@@ -69,6 +70,7 @@ namespace PrendasdeVestir
             WriteLine("4--Calsetas");
             WriteLine("5--Ropa interior");
             WriteLine("6--Zapatos");
+            ReadKey();
 
             WriteLine("------CATALOGO PACA DE MUJER------");  //CATALOGO PACA
             WriteLine("1--Blusas");
@@ -78,7 +80,7 @@ namespace PrendasdeVestir
             WriteLine("4--Calsetas");
             WriteLine("5--Ropa interior");
             WriteLine("6--Zapatos");
-          
+            ReadKey();
 
 
 
@@ -88,6 +90,7 @@ namespace PrendasdeVestir
             WriteLine("3--Descripcion");
             WriteLine("4--Talla");
             WriteLine("5--Precio");
+            ReadKey();
         }
     }
 }

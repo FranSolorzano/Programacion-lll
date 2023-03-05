@@ -1,0 +1,15 @@
+C:\Users\English\Desktop\PrendasdeVestir\PrendasdeVestir\bin\Debug\PrendasdeVestir.exe.config
+C:\Users\English\Desktop\PrendasdeVestir\PrendasdeVestir\bin\Debug\PrendasdeVestir.exe
+C:\Users\English\Desktop\PrendasdeVestir\PrendasdeVestir\bin\Debug\PrendasdeVestir.pdb
+C:\Users\English\Desktop\PrendasdeVestir\PrendasdeVestir\obj\Debug\PrendasdeVestir.csproj.AssemblyReference.cache
+C:\Users\English\Desktop\PrendasdeVestir\PrendasdeVestir\obj\Debug\PrendasdeVestir.csproj.SuggestedBindingRedirects.cache
+C:\Users\English\Desktop\PrendasdeVestir\PrendasdeVestir\obj\Debug\PrendasdeVestir.csproj.CoreCompileInputs.cache
+C:\Users\English\Desktop\PrendasdeVestir\PrendasdeVestir\obj\Debug\PrendasdeVestir.exe
+C:\Users\English\Desktop\PrendasdeVestir\PrendasdeVestir\obj\Debug\PrendasdeVestir.pdb
+C:\Users\HP-Notebook\Documents\GitHub\Programacion-lll\fran\PrendasdeVestir\PrendasdeVestir\bin\Debug\PrendasdeVestir.exe.config
+C:\Users\HP-Notebook\Documents\GitHub\Programacion-lll\fran\PrendasdeVestir\PrendasdeVestir\bin\Debug\PrendasdeVestir.exe
+C:\Users\HP-Notebook\Documents\GitHub\Programacion-lll\fran\PrendasdeVestir\PrendasdeVestir\bin\Debug\PrendasdeVestir.pdb
+C:\Users\HP-Notebook\Documents\GitHub\Programacion-lll\fran\PrendasdeVestir\PrendasdeVestir\obj\Debug\PrendasdeVestir.csproj.AssemblyReference.cache
+C:\Users\HP-Notebook\Documents\GitHub\Programacion-lll\fran\PrendasdeVestir\PrendasdeVestir\obj\Debug\PrendasdeVestir.csproj.CoreCompileInputs.cache
+C:\Users\HP-Notebook\Documents\GitHub\Programacion-lll\fran\PrendasdeVestir\PrendasdeVestir\obj\Debug\PrendasdeVestir.exe
+C:\Users\HP-Notebook\Documents\GitHub\Programacion-lll\fran\PrendasdeVestir\PrendasdeVestir\obj\Debug\PrendasdeVestir.pdb
