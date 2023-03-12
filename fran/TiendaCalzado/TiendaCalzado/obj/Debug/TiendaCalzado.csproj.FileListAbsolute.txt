@@ -1,0 +1,8 @@
+C:\Users\English\Desktop\TiendaCalzado\TiendaCalzado\bin\Debug\TiendaCalzado.exe.config
+C:\Users\English\Desktop\TiendaCalzado\TiendaCalzado\bin\Debug\TiendaCalzado.exe
+C:\Users\English\Desktop\TiendaCalzado\TiendaCalzado\bin\Debug\TiendaCalzado.pdb
+C:\Users\English\Desktop\TiendaCalzado\TiendaCalzado\obj\Debug\TiendaCalzado.csproj.AssemblyReference.cache
+C:\Users\English\Desktop\TiendaCalzado\TiendaCalzado\obj\Debug\TiendaCalzado.csproj.SuggestedBindingRedirects.cache
+C:\Users\English\Desktop\TiendaCalzado\TiendaCalzado\obj\Debug\TiendaCalzado.csproj.CoreCompileInputs.cache
+C:\Users\English\Desktop\TiendaCalzado\TiendaCalzado\obj\Debug\TiendaCalzado.exe
+C:\Users\English\Desktop\TiendaCalzado\TiendaCalzado\obj\Debug\TiendaCalzado.pdb
