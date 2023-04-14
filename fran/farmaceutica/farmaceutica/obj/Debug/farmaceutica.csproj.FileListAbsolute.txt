@@ -6,3 +6,10 @@ C:\Users\ALUMNO\Desktop\FsCarpetaVisual2022\farmaceutica\farmaceutica\bin\Debug\
 C:\Users\ALUMNO\Desktop\FsCarpetaVisual2022\farmaceutica\farmaceutica\bin\Debug\farmaceutica.pdb
 C:\Users\ALUMNO\Desktop\FsCarpetaVisual2022\farmaceutica\farmaceutica\obj\Debug\farmaceutica.exe
 C:\Users\ALUMNO\Desktop\FsCarpetaVisual2022\farmaceutica\farmaceutica\obj\Debug\farmaceutica.pdb
+C:\Users\HP-Notebook\Documents\GitHub\Programacion-lll\fran\farmaceutica\farmaceutica\obj\Debug\farmaceutica.csproj.AssemblyReference.cache
+C:\Users\HP-Notebook\Documents\GitHub\Programacion-lll\fran\farmaceutica\farmaceutica\obj\Debug\farmaceutica.csproj.CoreCompileInputs.cache
+C:\Users\HP-Notebook\Documents\GitHub\Programacion-lll\fran\farmaceutica\farmaceutica\obj\Debug\farmaceutica.exe
+C:\Users\HP-Notebook\Documents\GitHub\Programacion-lll\fran\farmaceutica\farmaceutica\obj\Debug\farmaceutica.pdb
+C:\Users\HP-Notebook\Documents\GitHub\Programacion-lll\fran\farmaceutica\farmaceutica\bin\Debug\farmaceutica.exe.config
+C:\Users\HP-Notebook\Documents\GitHub\Programacion-lll\fran\farmaceutica\farmaceutica\bin\Debug\farmaceutica.exe
+C:\Users\HP-Notebook\Documents\GitHub\Programacion-lll\fran\farmaceutica\farmaceutica\bin\Debug\farmaceutica.pdb

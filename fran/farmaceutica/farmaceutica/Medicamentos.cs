@@ -23,12 +23,12 @@ namespace farmaceutica
             Console.WriteLine("2--Dolores Musculares");
             Console.WriteLine("3--Alergias");
             Console.WriteLine("4--Virus");
-            int cata;
+            //int cata;
 
             //primero preguntara si viene con boleta o sino 
         }
 
-        }
+        
         
     }
 }

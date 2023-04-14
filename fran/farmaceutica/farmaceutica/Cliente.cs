@@ -22,6 +22,9 @@ namespace farmaceutica
             Console.WriteLine("¿Usted viene de manera privada o particular?"); //POR LA BOLETA O RECETA
             Console.WriteLine("1--SI");
             Console.WriteLine("2--NO");
+
+
+
             Console.WriteLine("Por favor seria tan amable de ingresar sus datos");
             Console.WriteLine("Ingrese su nombre: ");
             nombre = Console.ReadLine();

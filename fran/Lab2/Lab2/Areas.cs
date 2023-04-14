@@ -9,12 +9,12 @@ namespace Lab2
     class Areas
     {
         Empleado empleado = new Empleado();
-
+        AgregarProducto agp = new AgregarProducto();
+        int opc;
 
         public void Area()
         {
             WriteLine("Bienvenido al Super Mercado");
-
             Empleado empleado = new Empleado();
             WriteLine("\nIngresa tu email");
             empleado.Email = ReadLine();
@@ -24,7 +24,6 @@ namespace Lab2
             {
                 Clear();
                 WriteLine("Bienvenido Administrador");
-
                 WriteLine("\n¿Qué area deseas explorar?");
                 WriteLine("\n1.Carnes");
                 WriteLine("\n2.Bebidas");
@@ -40,10 +39,21 @@ namespace Lab2
                     empleado.Cat1= int.Parse(ReadLine());
                     if (empleado.Cat1 == 1)
                     {
+                        
                         Clear();
                         WriteLine("1.Filete");
                         WriteLine("2.Bistec");
                         WriteLine("\n1.Agregar Producto\t2.Venta");
+                        opc = int.Parse(ReadLine());
+                        
+                        if (opc == 1)
+                        {
+                            agp.Agregar();
+                        }
+                        else
+                        {
+                            agp.Agregar();
+                        }
                     }
                     else if (empleado.Cat1 == 2)
                     {
@@ -51,6 +61,17 @@ namespace Lab2
                         WriteLine("1.Res");
                         WriteLine("2.Lomo");
                         WriteLine("\n1.Agregar Producto\t2.Venta");
+                        WriteLine("\n1.Agregar Producto\t2.Venta");
+                        opc = int.Parse(ReadLine());
+                        
+                        if (opc == 1)
+                        {
+                            agp.Agregar();
+                        }
+                        else
+                        {
+                            agp.Agregar();
+                        }
                     }
                     else if (empleado.Cat1 == 3)
                     {
@@ -58,6 +79,16 @@ namespace Lab2
                         WriteLine("1.Pollo");
                         WriteLine("2.Conejo");
                         WriteLine("\n1.Agregar Producto\t2.Venta");
+                        opc = int.Parse(ReadLine());
+                        
+                        if (opc == 1)
+                        {
+                            agp.Agregar();
+                        }
+                        else
+                        {
+                            agp.Agregar();
+                        }
                     }
                     
                 }else if(empleado.Area1 == 2)
@@ -75,6 +106,16 @@ namespace Lab2
                         WriteLine("1.Coca-Cola");
                         WriteLine("2.Pepsi");
                         WriteLine("\n1.Agregar Producto\t2.Venta");
+                        opc = int.Parse(ReadLine());
+                        
+                        if (opc == 1)
+                        {
+                            agp.Agregar();
+                        }
+                        else
+                        {
+                            agp.Agregar();
+                        }
                     }
                     else if (empleado.Cat1 == 2)
                     {
@@ -82,6 +123,16 @@ namespace Lab2
                         WriteLine("1.Monster");
                         WriteLine("2.Red Bull");
                         WriteLine("\n1.Agregar Producto\t2.Venta");
+                        opc = int.Parse(ReadLine());
+                        
+                        if (opc == 1)
+                        {
+                            agp.Agregar();
+                        }
+                        else
+                        {
+                            agp.Agregar();
+                        }
                     }
                     else if (empleado.Cat1 == 3)
                     {
@@ -89,6 +140,16 @@ namespace Lab2
                         WriteLine("1.Vodka");
                         WriteLine("2.Wisky");
                         WriteLine("\n1.Agregar Producto\t2.Venta");
+                        opc = int.Parse(ReadLine());
+                        
+                        if (opc == 1)
+                        {
+                            agp.Agregar();
+                        }
+                        else
+                        {
+                            agp.Agregar();
+                        }
                     }
                 }
                
@@ -119,6 +180,12 @@ namespace Lab2
                         WriteLine("1.Filete");
                         WriteLine("2.Bistec");
                         WriteLine("\n1.Venta");
+                        opc = int.Parse(ReadLine());
+                        
+                        if (opc == 1)
+                        {
+                            agp.Agregar();
+                        }
                     }
                     else if (empleado.Cat1 == 2)
                     {
@@ -126,6 +193,10 @@ namespace Lab2
                         WriteLine("1.Res");
                         WriteLine("2.Lomo");
                         WriteLine("\n1.Venta");
+                        if (opc == 1)
+                        {
+                            agp.Agregar();
+                        }
                     }
                     else if (empleado.Cat1 == 3)
                     {
@@ -133,6 +204,10 @@ namespace Lab2
                         WriteLine("1.Pollo");
                         WriteLine("2.Conejo");
                         WriteLine("\n1.Venta");
+                        if (opc == 1)
+                        {
+                            agp.Agregar();
+                        }
                     }
 
                 }
@@ -151,6 +226,10 @@ namespace Lab2
                         WriteLine("1.Coca-Cola");
                         WriteLine("2.Pepsi");
                         WriteLine("\n1.Venta");
+                        if (opc == 1)
+                        {
+                            agp.Agregar();
+                        }
                     }
                     else if (empleado.Cat1 == 2)
                     {
@@ -158,6 +237,10 @@ namespace Lab2
                         WriteLine("1.Monster");
                         WriteLine("2.Red Bull");
                         WriteLine("\n1.Venta");
+                        if (opc == 1)
+                        {
+                            agp.Agregar();
+                        }
                     }
                     else if (empleado.Cat1 == 3)
                     {
@@ -165,6 +248,10 @@ namespace Lab2
                         WriteLine("1.Vodka");
                         WriteLine("2.Wisky");
                         WriteLine("\n1.Venta"); ;
+                        if (opc == 1)
+                        {
+                            agp.Agregar();
+                        }
                     }
                 }
             }
