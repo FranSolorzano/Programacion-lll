@@ -1,0 +1,6 @@
+C:\Users\ALUMNO\Desktop\FsCarpetaVisual2022\Practica09\SystemA\bin\Debug\SystemA.dll
+C:\Users\ALUMNO\Desktop\FsCarpetaVisual2022\Practica09\SystemA\bin\Debug\SystemA.pdb
+C:\Users\ALUMNO\Desktop\FsCarpetaVisual2022\Practica09\SystemA\obj\Debug\SystemA.csproj.AssemblyReference.cache
+C:\Users\ALUMNO\Desktop\FsCarpetaVisual2022\Practica09\SystemA\obj\Debug\SystemA.csproj.CoreCompileInputs.cache
+C:\Users\ALUMNO\Desktop\FsCarpetaVisual2022\Practica09\SystemA\obj\Debug\SystemA.dll
+C:\Users\ALUMNO\Desktop\FsCarpetaVisual2022\Practica09\SystemA\obj\Debug\SystemA.pdb

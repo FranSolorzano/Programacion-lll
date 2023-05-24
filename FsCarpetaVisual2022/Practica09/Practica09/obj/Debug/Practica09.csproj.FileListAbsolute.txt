@@ -1,0 +1,11 @@
+C:\Users\ALUMNO\Desktop\FsCarpetaVisual2022\Practica09\Practica09\bin\Debug\Practica09.exe.config
+C:\Users\ALUMNO\Desktop\FsCarpetaVisual2022\Practica09\Practica09\bin\Debug\Practica09.exe
+C:\Users\ALUMNO\Desktop\FsCarpetaVisual2022\Practica09\Practica09\bin\Debug\Practica09.pdb
+C:\Users\ALUMNO\Desktop\FsCarpetaVisual2022\Practica09\Practica09\obj\Debug\Practica09.csproj.AssemblyReference.cache
+C:\Users\ALUMNO\Desktop\FsCarpetaVisual2022\Practica09\Practica09\obj\Debug\Practica09.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALUMNO\Desktop\FsCarpetaVisual2022\Practica09\Practica09\obj\Debug\Practica09.csproj.CoreCompileInputs.cache
+C:\Users\ALUMNO\Desktop\FsCarpetaVisual2022\Practica09\Practica09\obj\Debug\Practica09.exe
+C:\Users\ALUMNO\Desktop\FsCarpetaVisual2022\Practica09\Practica09\obj\Debug\Practica09.pdb
+C:\Users\ALUMNO\Desktop\FsCarpetaVisual2022\Practica09\Practica09\bin\Debug\SystemA.dll
+C:\Users\ALUMNO\Desktop\FsCarpetaVisual2022\Practica09\Practica09\bin\Debug\SystemA.pdb
+C:\Users\ALUMNO\Desktop\FsCarpetaVisual2022\Practica09\Practica09\obj\Debug\Practica09.csproj.CopyComplete

@@ -1,0 +1,15 @@
+C:\Users\ALUMNO\Desktop\FsCarpetaVisual2022\PruebadeConsola\PruebadeConsola\bin\Debug\net6.0\PruebadeConsola.exe
+C:\Users\ALUMNO\Desktop\FsCarpetaVisual2022\PruebadeConsola\PruebadeConsola\bin\Debug\net6.0\PruebadeConsola.deps.json
+C:\Users\ALUMNO\Desktop\FsCarpetaVisual2022\PruebadeConsola\PruebadeConsola\bin\Debug\net6.0\PruebadeConsola.runtimeconfig.json
+C:\Users\ALUMNO\Desktop\FsCarpetaVisual2022\PruebadeConsola\PruebadeConsola\bin\Debug\net6.0\PruebadeConsola.dll
+C:\Users\ALUMNO\Desktop\FsCarpetaVisual2022\PruebadeConsola\PruebadeConsola\bin\Debug\net6.0\PruebadeConsola.pdb
+C:\Users\ALUMNO\Desktop\FsCarpetaVisual2022\PruebadeConsola\PruebadeConsola\obj\Debug\net6.0\PruebadeConsola.csproj.AssemblyReference.cache
+C:\Users\ALUMNO\Desktop\FsCarpetaVisual2022\PruebadeConsola\PruebadeConsola\obj\Debug\net6.0\PruebadeConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUMNO\Desktop\FsCarpetaVisual2022\PruebadeConsola\PruebadeConsola\obj\Debug\net6.0\PruebadeConsola.AssemblyInfoInputs.cache
+C:\Users\ALUMNO\Desktop\FsCarpetaVisual2022\PruebadeConsola\PruebadeConsola\obj\Debug\net6.0\PruebadeConsola.AssemblyInfo.cs
+C:\Users\ALUMNO\Desktop\FsCarpetaVisual2022\PruebadeConsola\PruebadeConsola\obj\Debug\net6.0\PruebadeConsola.csproj.CoreCompileInputs.cache
+C:\Users\ALUMNO\Desktop\FsCarpetaVisual2022\PruebadeConsola\PruebadeConsola\obj\Debug\net6.0\PruebadeConsola.dll
+C:\Users\ALUMNO\Desktop\FsCarpetaVisual2022\PruebadeConsola\PruebadeConsola\obj\Debug\net6.0\refint\PruebadeConsola.dll
+C:\Users\ALUMNO\Desktop\FsCarpetaVisual2022\PruebadeConsola\PruebadeConsola\obj\Debug\net6.0\PruebadeConsola.pdb
+C:\Users\ALUMNO\Desktop\FsCarpetaVisual2022\PruebadeConsola\PruebadeConsola\obj\Debug\net6.0\PruebadeConsola.genruntimeconfig.cache
+C:\Users\ALUMNO\Desktop\FsCarpetaVisual2022\PruebadeConsola\PruebadeConsola\obj\Debug\net6.0\ref\PruebadeConsola.dll

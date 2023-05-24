@@ -1,0 +1,32 @@
+﻿@charset "utf-8";
+
+*{
+    margin:0;
+    padding:0;
+}
+
+
+body {
+    background-color:darkcyan
+
+}
+
+header, main, footer{
+    background-color:brown;
+    width:99%;
+    max-width: 1000px;
+    margin:20px auto;
+    padding: 10px;
+}
+
+header{
+    background:darkgreen;
+    width: 96.5%;
+
+}
+
+header nav{
+    background:cornflowerblue;
+    overflow:hidden;
+    clear:both;
+}

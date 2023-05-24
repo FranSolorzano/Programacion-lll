@@ -1,0 +1,8 @@
+C:\Users\ALUMNO\Desktop\FsCarpetaVisual2022\Practicando\Practicando\bin\Debug\Practicando.exe.config
+C:\Users\ALUMNO\Desktop\FsCarpetaVisual2022\Practicando\Practicando\bin\Debug\Practicando.exe
+C:\Users\ALUMNO\Desktop\FsCarpetaVisual2022\Practicando\Practicando\bin\Debug\Practicando.pdb
+C:\Users\ALUMNO\Desktop\FsCarpetaVisual2022\Practicando\Practicando\obj\Debug\Practicando.csproj.AssemblyReference.cache
+C:\Users\ALUMNO\Desktop\FsCarpetaVisual2022\Practicando\Practicando\obj\Debug\Practicando.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALUMNO\Desktop\FsCarpetaVisual2022\Practicando\Practicando\obj\Debug\Practicando.csproj.CoreCompileInputs.cache
+C:\Users\ALUMNO\Desktop\FsCarpetaVisual2022\Practicando\Practicando\obj\Debug\Practicando.exe
+C:\Users\ALUMNO\Desktop\FsCarpetaVisual2022\Practicando\Practicando\obj\Debug\Practicando.pdb

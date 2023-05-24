@@ -1,0 +1,8 @@
+C:\Users\ALUMNO\Desktop\FsCarpetaVisual2022\PreparacionBebida\PreparacionBebida\bin\Debug\PreparacionBebida.exe.config
+C:\Users\ALUMNO\Desktop\FsCarpetaVisual2022\PreparacionBebida\PreparacionBebida\bin\Debug\PreparacionBebida.exe
+C:\Users\ALUMNO\Desktop\FsCarpetaVisual2022\PreparacionBebida\PreparacionBebida\bin\Debug\PreparacionBebida.pdb
+C:\Users\ALUMNO\Desktop\FsCarpetaVisual2022\PreparacionBebida\PreparacionBebida\obj\Debug\PreparacionBebida.csproj.AssemblyReference.cache
+C:\Users\ALUMNO\Desktop\FsCarpetaVisual2022\PreparacionBebida\PreparacionBebida\obj\Debug\PreparacionBebida.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALUMNO\Desktop\FsCarpetaVisual2022\PreparacionBebida\PreparacionBebida\obj\Debug\PreparacionBebida.csproj.CoreCompileInputs.cache
+C:\Users\ALUMNO\Desktop\FsCarpetaVisual2022\PreparacionBebida\PreparacionBebida\obj\Debug\PreparacionBebida.exe
+C:\Users\ALUMNO\Desktop\FsCarpetaVisual2022\PreparacionBebida\PreparacionBebida\obj\Debug\PreparacionBebida.pdb
