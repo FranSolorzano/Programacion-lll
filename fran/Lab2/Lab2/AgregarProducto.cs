@@ -3,12 +3,16 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+<<<<<<< Updated upstream
 using static System.Console;
+=======
+>>>>>>> Stashed changes
 
 namespace Lab2
 {
     class AgregarProducto
     {
+<<<<<<< Updated upstream
         private DateTime hora = DateTime.Now;
         public void Agregar() 
         {
@@ -83,5 +87,7 @@ namespace Lab2
                         
             }
         }
+=======
+>>>>>>> Stashed changes
     }
 }

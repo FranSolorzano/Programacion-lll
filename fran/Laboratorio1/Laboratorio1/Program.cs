@@ -6,7 +6,61 @@ using System.Threading.Tasks;
 using static System.Console;
 
 
+<<<<<<< Updated upstream
 public abstract class Departamento
+=======
+
+
+namespace Laboratorio1
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            //menu departamentos 8 municipios por departamento
+
+            //menu ususario
+
+            Console.WriteLine("¿Que desea realizar?");
+            Console.WriteLine("1--Registrarse");
+            Console.WriteLine("2--Mostrar datos del registro");
+            Console.WriteLine("3--Salir");
+            int opciones = int.Parse(Console.ReadLine());
+
+            Registro r = new Registro();
+
+            //string ficha = "";
+            //r.Registrar(ficha);
+
+
+            //else if (opciones == 2)
+            //{
+            //    ficha = 2;
+            //    int MostrarDatos;
+            //}
+            //else if (opciones == 3)
+            //{
+            //    ficha = 3;
+            //    int MostrarDatos;
+            //}
+            //else
+            //{
+            //    Console.WriteLine("\nNo válido!");
+            //}
+
+
+            if (opciones == 1)
+            {
+
+            }
+
+
+
+        }
+    }
+}
+public abstract class Datos
+>>>>>>> Stashed changes
 {
     public string nombre { get; set; }
     public string apellido { get; set; }
@@ -25,11 +79,65 @@ public class User : Departamento
 
     public User(string nombre, string apellido, int edad, string departamento, string municipio)
     {
+<<<<<<< Updated upstream
         this.nombre = nombre;
         this.apellido = apellido;
         this.edad = edad;
         this.departamento = departamento;
         this.municipio = municipio;
+=======
+        Console.WriteLine("\n++++++++++++++++++++ Bebidas ++++++++++++++++++++");
+        Console.WriteLine("1-" + departamento1 + "\n2-" + departamento2 + "\n3-" + departamento3 + "\n4-" + departamento4 + "\n5-" + departamento5 + "\n6-" + departamento6 + "\n7-" + departamento7 + "\n8-" + departamento8);
+        Console.WriteLine("\nElige el departamento del que provienes: ");
+        int opc = int.Parse(Console.ReadLine());
+
+        if (opc == 1)
+        {
+            Registro r = new Registro();
+            r.Datos(departamento1, municipio, nombre, edad);
+        }
+        else if (opc == 2)
+        {
+            Registro r = new Registro();
+            r.Datos(departamento2, municipio, nombre, edad);
+        }
+        else if (opc == 3)
+        {
+            Registro r = new Registro();
+            r.Datos(departamento3, municipio, nombre, edad);
+        }
+        else if (opc == 4)
+        {
+            Registro r = new Registro();
+            r.Datos(departamento4, municipio, nombre, edad);
+        }
+        else if (opc == 5)
+        {
+            Registro r = new Registro();
+            r.Datos(departamento5, municipio, nombre, edad);
+        }
+        else if (opc == 6)
+        {
+            Registro r = new Registro();
+            r.Datos(departamento6, municipio, nombre, edad);
+        }
+        else if (opc == 7)
+        {
+            Registro r = new Registro();
+            r.Datos(departamento7, municipio, nombre, edad);
+        }
+        else if (opc == 8)
+        {
+            Registro r = new Registro();
+            r.Datos(departamento8, municipio, nombre, edad);
+        }
+        else
+        {
+            Console.WriteLine("Opción inválida!");
+        }
+
+
+>>>>>>> Stashed changes
     }
 
 
@@ -40,12 +148,40 @@ public class User : Departamento
 
         do
         {
+<<<<<<< Updated upstream
             WriteLine("\nPor favor seleccione lo que desea realizar");
             WriteLine("\n1.Registrarse");
             WriteLine("\n2.Salir");
             opc = int.Parse(ReadLine());
+=======
+            string departamento1 = "Chalatenango";
+            string departamento2 = "La Nueva";
+            string departamento3 = "La Palma";
+            string departamento4 = "Comalapa";
+            string departamento5 = "Azacualpá";          
+            string departamento6 = "Citala";          
+            string departamento7 = "Arcatao";          
+            string departamento8 = "Agua Caliente";
+      
+            
+            Console.Clear();
+            lugar b = new lugar();
+            b.departamentos(departamento1, departamento2, departamento3, departamento4, departamento5, departamento6, departamento7, departamento8, municipio1,nombre, edad);
+        }
+        else if (opc == 2)
+        {
+            string departamento1 = "San Gerardo";
+            string departamento2 = "Quelepa";
+            string departamento3 = "Moncagua";
+            string departamento4 = "Uluasapa";
+            string departamento5 = "San Rafael Oriente";
+            string departamento6 = "San Antonio del Mosco";
+            string departamento7 = "Comacaran";
+            string departamento8 = "Chinameca";
+>>>>>>> Stashed changes
 
 
+<<<<<<< Updated upstream
             if (opc == 1)
             {
                 //DATOS DE LA PERSONA
@@ -634,9 +770,20 @@ public class User : Departamento
 
         } while (opc <= 2);
 
+=======
+            Console.Clear();
+            lugar b = new lugar();
+            b.departamentos(departamento1, departamento2, departamento3, departamento4, departamento5, departamento6, departamento7, departamento8, municipio, nombre, edad);
+        }
+       
+        else
+        {
+            Console.WriteLine("\nOpción inválida!");
+        }
+>>>>>>> Stashed changes
     }
-}
 
+<<<<<<< Updated upstream
 namespace primerLaboratorio
 {
     internal class Program
@@ -649,3 +796,17 @@ namespace primerLaboratorio
         }
     }
 }
+=======
+    internal void Datos(string departamento1, string municipio, string nombre, int edad)
+    {
+        throw new NotImplementedException();
+    }
+}
+
+
+
+
+
+
+    
+>>>>>>> Stashed changes

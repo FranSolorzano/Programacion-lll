@@ -9,12 +9,20 @@ namespace Lab2
     class Areas
     {
         Empleado empleado = new Empleado();
+<<<<<<< Updated upstream
         AgregarProducto agp = new AgregarProducto();
         int opc;
+=======
+
+>>>>>>> Stashed changes
 
         public void Area()
         {
             WriteLine("Bienvenido al Super Mercado");
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
             Empleado empleado = new Empleado();
             WriteLine("\nIngresa tu email");
             empleado.Email = ReadLine();
@@ -24,6 +32,10 @@ namespace Lab2
             {
                 Clear();
                 WriteLine("Bienvenido Administrador");
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
                 WriteLine("\n¿Qué area deseas explorar?");
                 WriteLine("\n1.Carnes");
                 WriteLine("\n2.Bebidas");
@@ -39,11 +51,15 @@ namespace Lab2
                     empleado.Cat1= int.Parse(ReadLine());
                     if (empleado.Cat1 == 1)
                     {
+<<<<<<< Updated upstream
                         
+=======
+>>>>>>> Stashed changes
                         Clear();
                         WriteLine("1.Filete");
                         WriteLine("2.Bistec");
                         WriteLine("\n1.Agregar Producto\t2.Venta");
+<<<<<<< Updated upstream
                         opc = int.Parse(ReadLine());
                         
                         if (opc == 1)
@@ -54,6 +70,8 @@ namespace Lab2
                         {
                             agp.Agregar();
                         }
+=======
+>>>>>>> Stashed changes
                     }
                     else if (empleado.Cat1 == 2)
                     {
@@ -61,6 +79,7 @@ namespace Lab2
                         WriteLine("1.Res");
                         WriteLine("2.Lomo");
                         WriteLine("\n1.Agregar Producto\t2.Venta");
+<<<<<<< Updated upstream
                         WriteLine("\n1.Agregar Producto\t2.Venta");
                         opc = int.Parse(ReadLine());
                         
@@ -72,6 +91,8 @@ namespace Lab2
                         {
                             agp.Agregar();
                         }
+=======
+>>>>>>> Stashed changes
                     }
                     else if (empleado.Cat1 == 3)
                     {
@@ -79,6 +100,7 @@ namespace Lab2
                         WriteLine("1.Pollo");
                         WriteLine("2.Conejo");
                         WriteLine("\n1.Agregar Producto\t2.Venta");
+<<<<<<< Updated upstream
                         opc = int.Parse(ReadLine());
                         
                         if (opc == 1)
@@ -89,6 +111,8 @@ namespace Lab2
                         {
                             agp.Agregar();
                         }
+=======
+>>>>>>> Stashed changes
                     }
                     
                 }else if(empleado.Area1 == 2)
@@ -106,6 +130,7 @@ namespace Lab2
                         WriteLine("1.Coca-Cola");
                         WriteLine("2.Pepsi");
                         WriteLine("\n1.Agregar Producto\t2.Venta");
+<<<<<<< Updated upstream
                         opc = int.Parse(ReadLine());
                         
                         if (opc == 1)
@@ -116,6 +141,8 @@ namespace Lab2
                         {
                             agp.Agregar();
                         }
+=======
+>>>>>>> Stashed changes
                     }
                     else if (empleado.Cat1 == 2)
                     {
@@ -123,6 +150,7 @@ namespace Lab2
                         WriteLine("1.Monster");
                         WriteLine("2.Red Bull");
                         WriteLine("\n1.Agregar Producto\t2.Venta");
+<<<<<<< Updated upstream
                         opc = int.Parse(ReadLine());
                         
                         if (opc == 1)
@@ -133,6 +161,8 @@ namespace Lab2
                         {
                             agp.Agregar();
                         }
+=======
+>>>>>>> Stashed changes
                     }
                     else if (empleado.Cat1 == 3)
                     {
@@ -140,6 +170,7 @@ namespace Lab2
                         WriteLine("1.Vodka");
                         WriteLine("2.Wisky");
                         WriteLine("\n1.Agregar Producto\t2.Venta");
+<<<<<<< Updated upstream
                         opc = int.Parse(ReadLine());
                         
                         if (opc == 1)
@@ -150,6 +181,8 @@ namespace Lab2
                         {
                             agp.Agregar();
                         }
+=======
+>>>>>>> Stashed changes
                     }
                 }
                
@@ -180,12 +213,15 @@ namespace Lab2
                         WriteLine("1.Filete");
                         WriteLine("2.Bistec");
                         WriteLine("\n1.Venta");
+<<<<<<< Updated upstream
                         opc = int.Parse(ReadLine());
                         
                         if (opc == 1)
                         {
                             agp.Agregar();
                         }
+=======
+>>>>>>> Stashed changes
                     }
                     else if (empleado.Cat1 == 2)
                     {
@@ -193,10 +229,13 @@ namespace Lab2
                         WriteLine("1.Res");
                         WriteLine("2.Lomo");
                         WriteLine("\n1.Venta");
+<<<<<<< Updated upstream
                         if (opc == 1)
                         {
                             agp.Agregar();
                         }
+=======
+>>>>>>> Stashed changes
                     }
                     else if (empleado.Cat1 == 3)
                     {
@@ -204,10 +243,13 @@ namespace Lab2
                         WriteLine("1.Pollo");
                         WriteLine("2.Conejo");
                         WriteLine("\n1.Venta");
+<<<<<<< Updated upstream
                         if (opc == 1)
                         {
                             agp.Agregar();
                         }
+=======
+>>>>>>> Stashed changes
                     }
 
                 }
@@ -226,10 +268,13 @@ namespace Lab2
                         WriteLine("1.Coca-Cola");
                         WriteLine("2.Pepsi");
                         WriteLine("\n1.Venta");
+<<<<<<< Updated upstream
                         if (opc == 1)
                         {
                             agp.Agregar();
                         }
+=======
+>>>>>>> Stashed changes
                     }
                     else if (empleado.Cat1 == 2)
                     {
@@ -237,10 +282,13 @@ namespace Lab2
                         WriteLine("1.Monster");
                         WriteLine("2.Red Bull");
                         WriteLine("\n1.Venta");
+<<<<<<< Updated upstream
                         if (opc == 1)
                         {
                             agp.Agregar();
                         }
+=======
+>>>>>>> Stashed changes
                     }
                     else if (empleado.Cat1 == 3)
                     {
@@ -248,10 +296,13 @@ namespace Lab2
                         WriteLine("1.Vodka");
                         WriteLine("2.Wisky");
                         WriteLine("\n1.Venta"); ;
+<<<<<<< Updated upstream
                         if (opc == 1)
                         {
                             agp.Agregar();
                         }
+=======
+>>>>>>> Stashed changes
                     }
                 }
             }
